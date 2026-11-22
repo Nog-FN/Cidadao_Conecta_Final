@@ -89,7 +89,7 @@ A comunicação entre as camadas foi validada por meio dos seguintes endpoints R
 
 * `POST /api/chamados` — Valida os campos obrigatórios, salva a imagem em `backend/uploads/`, gera o código único no formato `#CC-2026-XXXX` e persiste o registro no MySQL.
 
-* `GET /api/chamados/:protocolo` — Consulta e retorna os detalhes e o status atual (`Aberto`) de um chamado pelo número de protocolo.
+* `GET /api/chamados/:protocolo` — Consulta e retorna detalhes e o status atual (`Aberto`) de um chamado pelo número de protocolo.
 
 ## 5. Estrutura de pastas
 
