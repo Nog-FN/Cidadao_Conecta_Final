@@ -14,7 +14,7 @@ Trabalho a ser entregue para a disciplina Projeto Integrador.
 
 * Michelli Costa Canals
 
-* Sérgio Luís Neves Filho
+* Sergio Luis Neves Filho
 
 ## 1. Revisita do projeto e definição da PoC
 
