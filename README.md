@@ -1,20 +1,13 @@
-# Cidadao_Conecta_Final
-Trabalho a ser entregue para a disciplina Projeto Integrador.
-# Cidadão Conecta — Prova de Conceito (2ª entrega)
+# Cidadão Conecta — Prova de Conceito (2ª Entrega)
 
 **Projeto Integrador · Senac EAD · Análise e Desenvolvimento de Sistemas · 2026**
 
 ## Integrantes
-
 * Andressa do Socorro de Lima Moura
-
 * Flávio da Silva Nogueira
-
 * Michael Oliveira da Silva
-
 * Michelli Costa Canals
-
-* Sergio Luis Neves Filho
+* Sérgio Luís Neves Filho
 
 ---
 
